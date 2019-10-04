@@ -12,7 +12,7 @@
 ## Index
   1. [**What is Markdown?**](#what-is-markdown)
   2. [**Intro to GitHub Pages**](#intro-to-github-pages)
-  3. [**Creating a project wesite with GitHub Pages using HTML/CSS/JS**](#creating-a-project-wesite-with-github-pages-using-html-css-js)
+  3. [**Creating a project wesite with GitHub Pages using HTML/CSS/JS**](#creating-a-project-wesite-with-github-pages-using-htmlcssjs)
   4. [**Creating a project wesite with GitHub Pages using Markdown**](#creating-a-project-wesite-with-github-pages-using-markdown)
   5. [**Structuring your site**](#structuring-your-site)
   6. [**Jekyll Themes**](#jekyll-themes)
