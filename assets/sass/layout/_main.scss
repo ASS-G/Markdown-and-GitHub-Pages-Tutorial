@@ -1,0 +1,15 @@
+///
+/// Active Specialized Support Group (ASS-G)
+/// Active Specialized Support Group (ASS-G) | @ajlkn
+/// Free for personal and commercial use under the CCA 3.0 license (Active Specialized Support Group (ASS-G)/license)
+///
+
+/* Main */
+
+	#main {
+		@include padding(5em, 0, (-5em, 0, 3em, 0));
+
+		@include breakpoint('<=small') {
+			@include padding(3em, 0, (-3em, 0, 3em, 0));
+		}
+	}
