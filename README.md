@@ -68,6 +68,6 @@ To learn more about structuring your site with custom templates, [see this great
 Having trouble with Pages? Check out more [documentation](https://help.github.com/categories/github-pages-basics/).
 
 
-###### [[Back to Top]](#----github-pages-tutorial--)
+###### [[Back to Top]](#----markdown-and-github-pages-tutorial--)
 
 ![wave](http://cdn.thekrishna.in/img/common/border.png)
