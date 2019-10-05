@@ -11,6 +11,7 @@
 
 ## Index
   1. [**What is Markdown?**](#what-is-markdown)
+      1. [**Basic Markdown Syntax**](/markdown.md)
   2. [**Intro to GitHub Pages**](#intro-to-github-pages)
   3. [**Creating a project wesite with GitHub Pages using HTML/CSS/JS**](#creating-a-project-wesite-with-github-pages-using-htmlcssjs)
   4. [**Creating a project wesite with GitHub Pages using Markdown**](#creating-a-project-wesite-with-github-pages-using-markdown)
@@ -20,7 +21,7 @@
 ## What is Markdown?
 Markdown is a way to style text on the web. You control the display of the document; formatting words as bold or italic, adding images, and creating lists are just a few of the things we can do with Markdown. Mostly, Markdown is just regular text with a few non-alphabetic characters thrown in, like `#` or `*`.
 
-You can use Markdown most places around GitHub
+You can use Markdown most places around GitHub. You can learn about Markdown Language from [another page in this repo](/markdown.md)
 
 
 ## Intro to GitHub Pages
